@@ -1,0 +1,24 @@
+REQUIEM AETERNAM
+================
+Sample: requiem_aeternam.wav
+
+Text (Introitus der Totenmesse, liturgisches Latein, gemeinfrei):
+
+  Requiem aeternam dona eis, Domine,
+  et lux perpetua luceat eis.
+  Te decet hymnus, Deus, in Sion,
+  et tibi reddetur votum in Ierusalem.
+  Exaudi orationem meam:
+  ad te omnis caro veniet.
+
+Uebersetzung:
+
+  Ewige Ruhe schenke ihnen, Herr,
+  und das ewige Licht leuchte ihnen.
+  Dir gebuehrt Lobgesang, Gott, in Zion,
+  dir erfuellt man Geluebde in Jerusalem.
+  Erhoere mein Gebet:
+  zu dir kommt alles Fleisch.
+
+Anmerkung: Die zweite Zeile ("et lux perpetua luceat eis") ist die
+Quelle des Hook-Samples lux_perpetua.wav.
