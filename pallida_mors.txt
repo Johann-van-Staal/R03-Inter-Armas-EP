@@ -1,0 +1,43 @@
+PALLIDA MORS
+============
+Sample: vocal_pallida_mors.wav
+
+Text (Horaz, Oden I.4, Verse 13-17, gekuerzt; klassisches Latein,
+gemeinfrei):
+
+  Pallida Mors aequo pulsat pede
+  pauperum tabernas regumque turres.
+  O beate Sesti,
+  vitae summa brevis spem nos vetat inchoare longam.
+  Iam te premet nox fabulaeque Manes
+  et domus exilis Plutonia.
+
+Uebersetzung:
+
+  Der bleiche Tod klopft mit gleichem Fuss
+  an die Huetten der Armen und die Tuerme der Koenige.
+  O gluecklicher Sestius,
+  des Lebens kurze Summe verbietet uns, lange Hoffnung zu beginnen.
+  Bald wird dich die Nacht bedraengen, die Schatten der Sage
+  und das karge Haus des Pluto.
+
+Dazu als Schlusszeile / Hook (Horaz, Oden I.28, Verse 15-16 --
+nicht aus derselben Ode, aber derselbe Gedanke):
+
+  Sed omnes una manet nox
+  et calcanda semel via leti.
+
+  (Doch alle erwartet die eine Nacht,
+  und einmal nur ist der Weg des Todes zu gehen.)
+
+Anmerkung: Die Ode I.4 beginnt als Fruehlingsgedicht -- der Winter
+loest sich, alles bluent -- und kippt mitten im Satz in den Tod.
+Genau diese Bewegung (Feier -> Sterblichkeit) traegt das Stueck.
+"Omnes una manet nox" stammt aus der Archytas-Ode I.28; die Zeile
+eignet sich als eigenstaendiges, wiederholbares Hook-Sample.
+
+Aussprache (klassisch oder Kirchenlatein, Hauptsache konsequent):
+  PAL-li-da MORS AE-quo PUL-sat PE-de
+  PAU-pe-rum ta-BER-nas re-GUM-que TUR-res
+Langsam, gemessen, jedes Wort einzeln stellen -- wie ein Urteil,
+nicht wie eine Klage. Vor "O beate Sesti" eine Atempause.

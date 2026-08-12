@@ -1,0 +1,69 @@
+HYMNUS NOCTIS
+=============
+Samples: vocal_hymnus_1.wav bis vocal_hymnus_4.wav (je Strophe)
+
+Originalgedicht von Johann van Staal, in der Form eines
+mittelalterlichen Hymnus (trochaeische Achtsilber mit Paarreim,
+nach dem Versmass der Dies-irae-Sequenz). Thema: das Memento
+mori als Feier -- die schwarze Szene tanzt, WEIL die Erde wartet.
+
+  Pulsat Mors ad omne limen,
+  atra nox exstinguit lumen;
+  aequo pede, aequa sorte
+  rex et pauper stant in morte.
+
+  Media vita mors adest,
+  ideo cantare fas est;
+  hac in nocte exsultamus,
+  dum lucernam nos portamus.
+
+  Terra cunctos nos habebit,
+  quod nunc saltat, mox iacebit;
+  inter umbras nos saltamus,
+  cum ipsa Morte cantamus.
+
+  Omnes una nox exspectat,
+  nemo viam retro flectat;
+  ergo noctem celebramus,
+  quam nos omnes exspectamus.
+
+Uebersetzung:
+
+  Der Tod klopft an jede Schwelle,
+  die schwarze Nacht loescht das Licht;
+  mit gleichem Fuss, mit gleichem Los
+  stehen Koenig und Bettler im Tod.
+
+  Mitten im Leben ist der Tod da,
+  darum ist es recht, zu singen;
+  in dieser Nacht frohlocken wir,
+  solange wir die Lampe tragen.
+
+  Die Erde wird uns alle haben,
+  was jetzt tanzt, wird bald liegen;
+  zwischen den Schatten tanzen wir,
+  mit dem Tod selbst singen wir.
+
+  Alle erwartet die eine Nacht,
+  keiner wendet den Weg zurueck;
+  darum feiern wir die Nacht,
+  die wir alle erwarten.
+
+Anmerkungen: Der Hymnus verwebt seine Quellen bewusst --
+Strophe 1 antwortet auf Horaz' pallida Mors (Oden I,4),
+Strophe 2 zitiert die Media-vita-Antiphon, Strophe 3 das
+"nos habebit humus" des Gaudeamus igitur, und Strophe 4 kehrt
+Horaz' "omnes una manet nox" (Oden I,28) um: Die Nacht erwartet
+uns -- also erwarten und feiern wir sie.
+
+Die Aufnahmen sind psalmodiert: alle Zeilen auf einem einzigen
+Rezitationston (E), nur die vorletzte Silbe jeder Zeile hebt
+sich einen Halbton nach F -- dasselbe E-F-Intervall, das die
+Harmonik des Stuecks traegt. Mehrere leicht versetzte
+Durchgaenge uebereinandergelegt ergeben den Klang einer
+Gemeinde statt eines Solisten.
+
+Die Hook-Melodie des Stuecks zitiert die Eroeffnungsphrase der
+Dies-irae-Sequenz (gregorianisch, gemeinfrei); ihre
+Fortsetzungsphrasen sind Eigenkomposition im gleichen modalen
+Stil.

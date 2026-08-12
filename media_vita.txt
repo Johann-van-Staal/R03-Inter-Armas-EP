@@ -1,0 +1,39 @@
+MEDIA VITA
+==========
+Sample: vocal_media_vita.wav
+
+Text (mittelalterliche Antiphon, ueberliefert seit dem 8./9. Jh.,
+frueher Notker Balbulus zugeschrieben; gemeinfrei):
+
+  Media vita in morte sumus:
+  quem quaerimus adiutorem, nisi te, Domine,
+  qui pro peccatis nostris iuste irasceris?
+  Sancte Deus,
+  sancte fortis,
+  sancte et misericors Salvator:
+  amarae morti ne tradas nos.
+
+Uebersetzung:
+
+  Mitten im Leben sind wir im Tod:
+  Wen suchen wir als Helfer, wenn nicht dich, Herr,
+  der du ueber unsere Suenden zu Recht zuernst?
+  Heiliger Gott,
+  heiliger starker Gott,
+  heiliger und barmherziger Heiland:
+  Dem bitteren Tod ueberliefere uns nicht.
+
+Anmerkung: Die Antiphon war im Mittelalter als Sterbegesang und
+Prozessionsgesang in Gebrauch; Luthers Kirchenlied "Mitten wir im
+Leben sind" (1524) ist ihre direkte Nachdichtung. Der Dreifachruf
+"Sancte Deus / sancte fortis / sancte et misericors Salvator"
+(nach dem griechischen Trisagion) ist die musikalisch staerkste
+Stelle -- er laesst sich als eigenes, dreistufig gestapeltes
+Sample schneiden.
+
+Aussprache (Kirchenlatein):
+  ME-di-a VI-ta in MOR-te SU-mus
+  quem QUAE-ri-mus ad-iu-TO-rem NI-si te DO-mi-ne
+Getragen, halb gesungen, auf einem Ton bleibend (siehe
+hymnus_noctis.txt fuer den Rezitationston). Der Dreifachruf
+darf mit jeder Stufe minimal lauter und hoeher werden.

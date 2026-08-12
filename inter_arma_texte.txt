@@ -91,7 +91,27 @@ Erste und letzte Zeile sind identisch -- der Chant ist als
 Endlosschleife gebaut.
 
 
-6. CEDANT ARMA TOGAE (vocal_cedant_arma.wav)
+6. NOX NOSTRA (vocal_nox_nostra.wav)
+---------------------------------------------------------------
+
+  Vade retro, deus belli:
+  nox nostra est, non tua.
+
+  (Weiche zurueck, Gott des Krieges:
+  Die Nacht ist unser, nicht dein.)
+
+Originaltext von Johann van Staal, gebaut aus historischen
+Bausteinen: Die Geste kehrt das aelteste ueberlieferte
+roemische Gebet um (Cato, De agri cultura 141: "Mars pater,
+te precor quaesoque" -- dort wird Mars angerufen, hier
+fortgeschickt); "vade retro" ist die Bannformel der
+Benediktusmedaille (vgl. den Track "Nunquam Draco");
+"nox nostra est" antwortet auf Horaz' "omnes una manet nox".
+Im Stueck steht die Formel am Ende des Breakdowns -- und wird
+vom Luftalarm beantwortet.
+
+
+7. CEDANT ARMA TOGAE (vocal_cedant_arma.wav)
 ---------------------------------------------------------------
 
   Cedant arma togae.
