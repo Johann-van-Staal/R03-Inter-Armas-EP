@@ -1,0 +1,104 @@
+INTER ARMA — DIE TEXTE
+======================
+Alle gesprochenen Texte des Stuecks "Inter Arma", mit Uebersetzung
+und Quelle. Anders als bei den liturgischen Stuecken sind die
+Aufnahmen in KLASSISCHER (nicht kirchlicher) Aussprache gesprochen:
+c = k, v = w, ae = ai.
+
+
+1. PARA BELLUM (vocal_para_bellum.wav, dazu die drei Saetze
+   einzeln als vocal_para_bellum_1/2/3.wav)
+---------------------------------------------------------------
+
+  Igitur qui desiderat pacem, praeparet bellum;
+  qui victoriam cupit, milites imbuat diligenter;
+  qui secundos optat eventus, dimicet arte, non casu.
+
+  (Wer also den Frieden wuenscht, bereite den Krieg vor;
+  wer den Sieg begehrt, drille die Soldaten sorgfaeltig;
+  wer guenstigen Ausgang will, kaempfe mit Kunst,
+  nicht auf gut Glueck.)
+
+Quelle: Vegetius, Epitoma rei militaris, Buch III, Vorrede
+(4./5. Jh. n. Chr., gemeinfrei). Das Original hinter dem
+Sprichwort "Si vis pacem, para bellum".
+
+
+2. RAPTORES ORBIS (vocal_raptores.wav)
+---------------------------------------------------------------
+
+  Raptores orbis, postquam cuncta vastantibus defuere terrae,
+  mare scrutantur; si locuples hostis est, avari,
+  si pauper, ambitiosi;
+  quos non Oriens, non Occidens satiaverit.
+  Auferre, trucidare, rapere falsis nominibus imperium,
+  atque ubi solitudinem faciunt, pacem appellant.
+
+  (Raeuber der Welt: Nachdem ihnen, die alles verwuesten,
+  die Laender ausgegangen sind, durchwuehlen sie das Meer;
+  ist der Feind reich, sind sie habgierig,
+  ist er arm, sind sie ehrgeizig;
+  Maenner, die weder der Osten noch der Westen gesaettigt hat.
+  Rauben, Morden, Pluendern nennen sie mit falschen Namen
+  Herrschaft -- und wo sie eine Wueste schaffen,
+  nennen sie es Frieden.)
+
+Quelle: Tacitus, Agricola 30 -- aus der Rede, die Tacitus dem
+Kaledonierfuehrer Calgacus vor der Schlacht am Mons Graupius
+in den Mund legt (ca. 98 n. Chr., gemeinfrei).
+
+
+3. SILENT LEGES (vocal_silent_leges.wav)
+---------------------------------------------------------------
+
+  Silent enim leges inter arma.
+
+  (Denn unter Waffen schweigen die Gesetze.)
+
+Quelle: Cicero, Pro Milone 11 (52 v. Chr., gemeinfrei).
+Gelaeufig auch in der Umstellung "Inter arma enim silent leges".
+Der Titel des Stuecks stammt aus dieser Zeile.
+
+
+4. VAE VICTIS (vocal_vae_victis.wav)
+---------------------------------------------------------------
+
+  Vae victis!
+
+  (Wehe den Besiegten!)
+
+Quelle: Livius, Ab urbe condita V,48 -- der Ausruf des
+Gallierfuersten Brennus, als er sein Schwert zusaetzlich auf
+die Waagschale des Loesegelds warf (gemeinfrei).
+
+
+5. INTER ARMA NOS SALTAMUS (vocal_inter_arma_puls.wav)
+---------------------------------------------------------------
+
+  Inter arma nos saltamus,
+  dum Mars tonat, non cessamus;
+  silent leges -- nos cantamus,
+  inter arma nos saltamus.
+
+  (Zwischen den Waffen tanzen wir,
+  waehrend Mars donnert, halten wir nicht inne;
+  die Gesetze schweigen -- wir singen,
+  zwischen den Waffen tanzen wir.)
+
+Originaltext von Johann van Staal (trochaeische Achtsilber
+mit durchgehendem -amus-Reim; Zeile 3 zitiert Cicero).
+Erste und letzte Zeile sind identisch -- der Chant ist als
+Endlosschleife gebaut.
+
+
+6. CEDANT ARMA TOGAE (vocal_cedant_arma.wav)
+---------------------------------------------------------------
+
+  Cedant arma togae.
+
+  (Die Waffen sollen der Toga weichen.)
+
+Quelle: Cicero, De officiis I,77 (44 v. Chr., gemeinfrei).
+Im Stueck das letzte Wort nach dem Verklingen der Musik --
+die einzige Stimme, die nicht kalt ist, und die niemand
+mehr hoert.
