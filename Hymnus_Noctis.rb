@@ -4,7 +4,7 @@ set_sched_ahead_time! 1
 use_bpm 138
 use_random_seed 5
 define :pfad do |name|
-  "/Users/hansradtke/Library/Mobile Documents/com~apple~CloudDocs/SonicPi-Repository/SonicPi-Repository/R03_Hymnus_Noctis/" + name + ".wav"
+  "... insert file path ..." + name + ".wav"
 end
 puts "PFAD-TEST: " + pfad("effect_craw").inspect
 optionale = ["effect_craw", "effect_rain", "effect_graveyard_bell",
@@ -74,7 +74,7 @@ live_loop :abblende, sync: :puls do
 end
 with_fx :reverb, room: 0.85, mix: 0.5 do
   with_fx :echo, phase: 0.75, decay: 4, mix: 0.15 do
-   with_fx :bitcrusher, bits: 8, sample_rate: 11000, mix: 0.3 do
+   with_fx :bitcrusher, bits: 10, sample_rate: 16000, mix: 0.25 do
     live_loop :hook, sync: :puls do
       stop if takt >= schluss
       s = section
@@ -86,7 +86,7 @@ with_fx :reverb, room: 0.85, mix: 0.5 do
             cutoff: (s == :final ? 80 : 72), amp: 0.5
           if s == :final
             play note(mel[i]) + 12, release: dauern[i],
-              cutoff: 95, amp: 0.14
+              cutoff: 85, amp: 0.11
           end
           use_synth :dsaw
           play note(mel[i]) - 12, release: dauern[i] * 1.1,
@@ -179,7 +179,19 @@ with_fx :distortion, distort: 0.25, mix: 0.7 do
     else
       :e1
     end
-    if voll? && ((takt % 8) >= 6)
+    if s == :final
+      16.times do |i|
+        if i % 4 != 0
+          use_synth :tb303
+          play root, release: 0.15,
+            cutoff: [80 + (takt % 8) * 3 + (i % 4) * 4, 118].min,
+            res: 0.8, wave: 0, amp: 0.55
+          use_synth :bass_foundation
+          play root, release: 0.15, amp: 0.35
+        end
+        sleep 0.25
+      end
+    elsif voll? && ((takt % 8) >= 6)
       4.times do
         use_synth :fm
         play root, divisor: 1, depth: 1.2, release: 0.4,
@@ -227,10 +239,11 @@ end
 live_loop :offhat, sync: :puls do
   stop if takt >= schluss
   if voll? && !stille? && !((takt >= 102) && (takt < 106))
+    offen = (section == :final)
     4.times do
       sleep 0.5
-      sample :drum_cymbal_closed, amp: 0.3, rate: 0.7,
-        finish: 0.6, lpf: 85
+      sample :drum_cymbal_closed, amp: (offen ? 0.35 : 0.3),
+        rate: 0.7, finish: (offen ? 0.85 : 0.6), lpf: (offen ? 95 : 85)
       sleep 0.5
     end
   else
@@ -247,6 +260,24 @@ live_loop :shuffle, sync: :puls do
     end
   else
     sleep 4
+  end
+end
+with_fx :reverb, room: 0.7, mix: 0.3 do
+  live_loop :goa_arp, sync: :puls do
+    stop if takt >= schluss
+    if section == :final
+      use_synth :dsaw
+      arp = (ring :e3, :b3, :e4, :d4, :c4, :b3, :c4, :b3,
+             :e3, :b3, :e4, :f4, :e4, :d4, :c4, :b3)
+      16.times do |i|
+        play arp[i], release: 0.12,
+          cutoff: 85 + (takt % 4) * 8,
+          detune: 0.3, amp: 0.28
+        sleep 0.25
+      end
+    else
+      sleep 4
+    end
   end
 end
 live_loop :uebergang, sync: :puls do
@@ -276,9 +307,12 @@ with_fx :reverb, room: 0.9, mix: 0.5 do
     case takt
     when 1
       vox "effect_rain", amp: 0.3, attack: 2
+    when 2
       vox "effect_graveyard_bell", rate: 0.9, amp: 0.5, lpf: 90
     when 4
-      vox "vocal_media_vita", rate: 0.8, amp: 0.7, lpf: 100
+      with_fx :pitch_shift, pitch: -4, mix: 0.5 do
+        vox "vocal_media_vita", amp: 3, lpf: 100
+      end
     when 6
       vox "effect_craw", rate: 0.8, amp: 0.45
     when 32
@@ -306,7 +340,9 @@ with_fx :reverb, room: 0.9, mix: 0.5 do
     when 140
       vox "effect_rain", amp: 0.3, attack: 2
     when 144
-      vox "vocal_media_vita", rate: 0.7, amp: 0.7, hpf: 70
+      with_fx :pitch_shift, pitch: -4, mix: 0.5 do
+        vox "vocal_media_vita", amp: 3, lpf: 100
+      end
     when 148
       vox "effect_graveyard_bell", rate: 0.85, amp: 0.45, lpf: 85
     when 152
